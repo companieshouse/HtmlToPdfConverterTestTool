@@ -21,7 +21,7 @@ Step 5. Enter sample/templates/sample-letter-template-v1.htm sample/output/sampl
 
 Step 6. Open the pdf file created :  sample/output/sample-letter-template-v1.pdf
 
-
+ 
 File structure
 
   - css : this contains the css style sheet files
