@@ -1,0 +1,13 @@
+# Don't track content of these folders
+.idea/
+target/classes/
+target/generated-sources/
+target/generated-test-sources/
+target/maven-archiver/
+target/maven-status/
+target/surefire-reports/
+target/test-classes/
+out/*
+
+# Don't track content of these files
+*.iml
