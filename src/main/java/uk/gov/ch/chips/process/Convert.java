@@ -8,7 +8,6 @@ package uk.gov.ch.chips.process;
  *
  */
 
-import com.itextpdf.text.DocumentException;
 import org.xhtmlrenderer.pdf.ITextRenderer;
 import org.xhtmlrenderer.resource.XMLResource;
 import org.w3c.dom.Document;
